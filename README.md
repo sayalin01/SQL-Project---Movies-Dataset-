@@ -1,4 +1,4 @@
-# SQL-Project---Movies-Dataset-
+ # SQL-Project---Movies-Dataset-
 
 Objective - This project to analyze the movies dataset available with various tables. Using the SQL queries for Data Manipulation. The main objective of querying this database is to practice and efficiently use SQL syntax in asking questions and producing desired results.
 
